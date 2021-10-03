@@ -89,4 +89,4 @@ protected Class<?> loadClass(String name, boolean resolve)
 借助同学202220008刘睿哲上传的example.ShellSorter.png，
 
 这边静态展示排序过程，正确。
-https://user-images.githubusercontent.com/60206647/135749976-ab9cb92f-0207-41eb-82b1-5a4101381186.png
+![](https://user-images.githubusercontent.com/60206647/135749976-ab9cb92f-0207-41eb-82b1-5a4101381186.png)
