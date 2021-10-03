@@ -34,7 +34,12 @@
 请尝试运行example（注意`lib`目录下存在一个jar文件，需要被包含在工程的classpath中）仔细阅读example中的代码，理解其含义，撰写一个markdown文件，完成以下任务：
 
 1. 写下对代码工作原理的理解；
+
+   SteganographyFactory 生成隐写术图，将BubbleSorter.java写入泡泡图片中。
+
 2. 将自己在`W02`中实现的两个排序算法（冒泡排序除外）分别编码进自选图片得到隐写术图，在markdown中给出两个图片的URL；
+
 3. 用你的图片给`W02`中example的老头赋予排序能力，得到排序结果（动画），上传动画到asciinema，在markdown中给出两个动画的链接。
+
 4. 联系另一位同学，用他的图片给`W02`中example的老头赋予排序能力，在markdown中记录你用的谁的图片，得到结果是否正确。
 
