@@ -29,7 +29,7 @@ public class Scene {
                 new URL("file:////Users/abangya⁩/⁨Desktop/java/jw03-aaaabang⁩/S191220057.InsertSorter.png"));
 
         //Class c = loader.loadClass("example.ShellSorter");
-        //Class c = loader.loadClass("example.Heap");
+        //Class c = loader.loadClass("example.BubbleSorter");
         //Class c = loader.loadClass("S191220057.QuickSorter");
         Class c = loader.loadClass("S191220057.InsertSorter");
 

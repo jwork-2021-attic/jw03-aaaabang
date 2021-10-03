@@ -43,3 +43,4 @@
 
 4. 联系另一位同学，用他的图片给`W02`中example的老头赋予排序能力，在markdown中记录你用的谁的图片，得到结果是否正确。
 
+java -jar asciianimator.jar -f result.txt -l false -c true -fps 3
